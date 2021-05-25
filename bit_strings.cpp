@@ -12,6 +12,7 @@ long long int bit(long long int n){
 int main(){
 	long long int n;
 	cin>>n;
+	cout<<"This is a check";
  	long long answer = bit(n);
 	cout<<answer<<endl;
 	return 0;
